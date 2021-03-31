@@ -385,9 +385,9 @@
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label16.Location = new System.Drawing.Point(141, 154);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(43, 25);
+            this.label16.Size = new System.Drawing.Size(53, 25);
             this.label16.TabIndex = 23;
-            this.label16.Text = "ОШ";
+            this.label16.Text = "Ном";
             // 
             // label17
             // 
@@ -397,9 +397,9 @@
             this.label17.ForeColor = System.Drawing.Color.Red;
             this.label17.Location = new System.Drawing.Point(129, 511);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(44, 31);
+            this.label17.Size = new System.Drawing.Size(77, 31);
             this.label17.TabIndex = 24;
-            this.label17.Text = "10";
+            this.label17.Text = "Нарх";
             // 
             // FormProduct
             // 
