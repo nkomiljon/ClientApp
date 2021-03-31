@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\bin\Debug\NewRestoranApp.exe.config
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\bin\Debug\NewRestoranApp.exe
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\bin\Debug\NewRestoranApp.pdb
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.Form1.resources
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.Properties.Resources.resources
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.exe
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.pdb
+C:\Users\User\source\repos\NewRestoranApp\NewRestoranApp\obj\Debug\NewRestoranApp.Forms.FormProduct.resources
